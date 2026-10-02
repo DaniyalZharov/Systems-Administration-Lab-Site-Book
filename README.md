@@ -22,7 +22,7 @@ client, Rocky Linux client, and Rocky Linux storage server.
 
 ## Site Book
 
-[Read the Systems Administration Site Book](Systems-Administration-SiteBook.pdf)
+[Read the Systems Administration Site Book](SiteBook_DaniyalZharov.pdf)
 
 ## Available Materials
 
